@@ -314,7 +314,6 @@ function toNumber($dest)
 $rucksacks = preg_split('/\n/', $input);
 $arraySplitted = array();
 $finalArrays =array();
-$lastArray = array();
 $sumPrio =0;
 foreach($rucksacks as $string)
     {
